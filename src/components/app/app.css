@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.App__section {
+  width: 50%;
+}

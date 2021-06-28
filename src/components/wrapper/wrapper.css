@@ -1,0 +1,26 @@
+.Wrapper {
+    padding-top: 15px;
+
+}
+
+.Wrapper__list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.Wrapper__item {
+    width: 33.333333%;
+}
+
+.Wrapper__button {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Wrapper__test {
+    margin-top: 20px;
+    text-align: center;
+}
